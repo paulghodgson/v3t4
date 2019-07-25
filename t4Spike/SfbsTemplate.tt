@@ -15,7 +15,7 @@
     string settingsJson = File.ReadAllText(settingsPath);
     JObject datasource = JObject.Parse(settingsJson);
 #>
-public  SfbsDialInNumberViewModel[] SfbsModalityNumbers = new[]{
+public static SfbsDialInNumberViewModel[] SfbsModalityNumbers = new[]{
 <# foreach(var thing in datasource["DialInNumbers"]) {#>	new SfbsDialInNumberViewModel()  <#= thing.ToString().Replace("\"Number\":", "Number =")
 	.Replace("\"Region\":", "Region =")
 	.Replace("\"IsTollFree\":", "IsTollFree =")

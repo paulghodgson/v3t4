@@ -1,4 +1,4 @@
-﻿public  SfbsDialInNumberViewModel[] SfbsModalityNumbers = new[]{
+﻿public static SfbsDialInNumberViewModel[] SfbsModalityNumbers = new[]{
 	new SfbsDialInNumberViewModel()  {  Number = "(GBL) STAR-700-7070",  Region = "Swiss Conferencing Location Profile",  IsTollFree = false,  Culture = "English (United States)",  IsDefault = false,  IsSelected = false},
 	new SfbsDialInNumberViewModel()  {  Number = "PUN +912066737500",  Region = "Swiss Conferencing Location Profile",  IsTollFree = false,  Culture = "English (United States)",  IsDefault = false,  IsSelected = false},
 	new SfbsDialInNumberViewModel()  {  Number = "Americas SBC 01",  Region = "US",  IsTollFree = false,  Culture = "English (United States)",  IsDefault = false,  IsSelected = false},

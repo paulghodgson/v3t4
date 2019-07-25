@@ -15,7 +15,7 @@
     string settingsJson = File.ReadAllText(settingsPath);
     JObject datasource = JObject.Parse(settingsJson);
 #>
-public  TeamsDialInNumberViewModel[] TeamsModalityNumbers = new[]{
+public static  TeamsDialInNumberViewModel[] TeamsModalityNumbers = new[]{
 <# foreach(var thing in datasource["DialInNumbers"]) {#>	new TeamsDialInNumberViewModel()  <#= 
 thing.ToString().Replace("\"Number\":", "Number =")
 	.Replace("\"FormattedNumber\":", "FormattedNumber =")

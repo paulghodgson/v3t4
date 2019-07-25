@@ -1,4 +1,4 @@
-﻿public  TeamsDialInNumberViewModel[] TeamsModalityNumbers = new[]{
+﻿public static  TeamsDialInNumberViewModel[] TeamsModalityNumbers = new[]{
 	new TeamsDialInNumberViewModel()  {  FormattedNumber = "+54 11 5256-4123",  Number = "+541152564123",  City = "Buenos Aires",  Country = "Argentina",  IsoCode = "AR",  IsTollFree = false,  DisplayName = "Argentina, Buenos Aires",  IsDefault = false},
 	new TeamsDialInNumberViewModel()  {  FormattedNumber = "1800 826 541",  Number = "1800826541",  City = "Toll-Free",  Country = "Australia",  IsoCode = "AU",  IsTollFree = true,  DisplayName = "Australia, Toll-Free",  IsDefault = false},
 	new TeamsDialInNumberViewModel()  {  FormattedNumber = "+61 3 8592 8404",  Number = "+61385928404",  City = "Melbourne",  Country = "Australia",  IsoCode = "AU",  IsTollFree = false,  DisplayName = "Australia, Melbourne",  IsDefault = false},
