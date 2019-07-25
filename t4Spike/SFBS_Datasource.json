@@ -1,0 +1,1076 @@
+﻿{
+  "IsEnabled": true,
+  "JoinMeetingUrl": "https://meeting.credit-suisse.com/credit-suisse/meet/kurt.bradbury/PG9SR2JP#C2F91B2A-692E-4790-8F7A-7A4FDDC86C8A",
+  "JoinWebMeetingUrl": "https://meeting.credit-suisse.com/credit-suisse/meet/kurt.bradbury/PG9SR2JP?sl=1",
+  "FocusId": "PG9SR2JP",
+  "FocusUri": "sip:kurt.bradbury@credit-suisse.com;gruu;opaque=app:conf:focus:id:PG9SR2JP",
+  "ConferenceId": "60570617",
+  "HelpUrl": "http://myithelp.csintra.net/portal/app/portlets/toolbar/sstoolbarsearch.jsp?QueryText Lync",
+  "ForgottenPinUrl": "https://meeting.credit-suisse.com/dialin",
+  "LocalPhoneUrl": "https://meeting.credit-suisse.com/dialin",
+  "IsPstnEnabled": true,
+  "DialInNumbers": [
+    {
+      "Number": "(GBL) STAR-700-7070",
+      "Region": "Swiss Conferencing Location Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "PUN +912066737500",
+      "Region": "Swiss Conferencing Location Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Americas SBC 01",
+      "Region": "US",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Americas PBX 02",
+      "Region": "US",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "CH PBX",
+      "Region": "CH",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "CH PBX 02",
+      "Region": "CH",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "CH 7007098 BGH SBC",
+      "Region": "CH",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Global Internal Access: . . . *700-7070",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "External Access:",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Hong Kong . . . . . . . . . +852-2101-7981",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . .+44-207-883-6789",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Mumbai . . . . . . . . . . . . +91-22-6777-3939",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". New York . . . . . . . . . . . +1-212-538-6789",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Pune . . . . . . . . . . . . . . . +91-20-6673-7500",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . . .+65-6212-5050",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Sao Paulo . . . . . . . . . . . . +55 11 3701 6171",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Sydney . . . . . . . . . . . . . +61-2-8205-4270",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Tokyo . . . . . . . . . . . . . . +81-3-4550-7220",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Wroclaw . . . . . . . . . . . . +48-71-746-6333",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . . +41-44-335-7070",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Americas (Toll Free) . . +1-800-318-8220",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Don't see your location? Click on the link below.",
+      "Region": "Universal Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Global Internal Access: . . . *700-7070",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "External Access:",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Hong Kong . . . . . . . . . +852-2101-7981",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-207-883-6789",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Mumbai . . . . . . . . . . . . +91-22-6777-3939",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". New York . . . . . . . . . . . +1-212-538-6789",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Pune . . . . . . . . . . . . . . . +91-20-6673-7500",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . . +65-6212-5050",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Sydney . . . . . . . . . . . . . +61-2-8205-4270",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Tokyo . . . . . . . . . . . . . . +81-3-4550-7220",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . . +41-44-335-7070",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Wroclaw . . . . . . . . . . . . +48-71-748-6333",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Americas (Toll Free) . . +1-800-318-8220",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Don't see your location? Click on the link below.",
+      "Region": "Universal Conferencing Profile-01",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Global Internal Access for CS participants: . . . *700-7070",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "External Access:",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". United States/Canada (Toll Free) . . +1-800-318-8220",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-207-883-6789",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". China . . . . . . . . . . . . +86-4008-21-8711",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Hong Kong . . . . . . . . . +852-2101-7981",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Mumbai . . . . . . . . . . . . +91-22-6777-3939",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". New York . . . . . . . . . . . +1-212-538-6789",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Pune . . . . . . . . . . . . . . . +91-20-6673-7500",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . . +65-6212-5050",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Sydney . . . . . . . . . . . . . +61-2-8205-4270",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Tokyo . . . . . . . . . . . . . . +81-3-4550-7220",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . . +41-44-335-7070",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Wroclaw . . . . . . . . . . . . +48-71-748-6333",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "For Operator assistance, if trouble connecting (non CS users):",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". United States/Canada . . . . . . . . . . . +1-855-459-6655",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-808-234-1572",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Brazil . . . . . . . . . . . . . . +55-800-892-0527",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Mexico . . . . . . . . . . . . +001-855-459-6655",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . +65-800-110-2053",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . +41-800-552-773",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Don't see your location? Click on the link below.",
+      "Region": "IBD Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "EMEA SBC 01",
+      "Region": "GB",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "APAC SBC 01",
+      "Region": "SG",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "APAC PBX 02",
+      "Region": "SG",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Global Internal Access: . . . *700-7070",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": "External Access:",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Hong Kong . . . . . . . . . +852-2101-7981",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-207-883-6789",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". New York . . . . . . . . . . . +1-212-538-6789",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Pune . . . . . . . . . . . . . . . +91-20-6001-3743",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Sao Paulo . . . . . . . . . . . . +55-11-3701-6171",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . . +65-6212-5050",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Sydney . . . . . . . . . . . . . +61-2-8205-4270",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Tokyo . . . . . . . . . . . . . . +81-3-4550-7220",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Wroclaw . . . . . . . . . . . . +48-71-746-6333",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . . +41-44-335-7070",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". Americas (Toll Free) . . +1-800-318-8220",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": ". India (Local Toll Free) . . 1800-266-0193",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": "Don't see your location? Click on the link below.",
+      "Region": "Universal Conferencing Profile-02",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": true,
+      "IsSelected": true
+    },
+    {
+      "Number": "Global Internal Access for CS participants: . . . *700-7070",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "External Access:",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". US / Canada . . +1-800-318-8220",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-20-7883-6789",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Brazil . . . . . . . . . . . . +55-11-3701-6171",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". China . . . . . . . . . . . . +86-4008-21-8711",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Hong Kong . . . . . . . . . +852-2101-7981",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Mexico . . . . . . . . . +52-555-283-3870",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Mumbai . . . . . . . . . . . . +91-22-6777-3939",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . . +65-6212-5050",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Sydney . . . . . . . . . . . . . +61-2-8205-4270",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Tokyo . . . . . . . . . . . . . . +81-3-4550-7220",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . . +41-44-335-7070",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "For operator assistance, if trouble connecting (non CS users):",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". US / Canada / Mexico . . . . . . . . . . . +1-855-459-6655",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-808-234-1572",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Brazil . . . . . . . . . . . . . . +55-800-892-0527",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . +65-800-110-2053",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . +41-800-552-773",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Don't see your location? Click on the link below.",
+      "Region": "IBCM Conferencing Profile",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "CS Internal Access . . . *700-7070",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "External Access:",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". US / Canada . . +1-800-318-8220",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-20-7883-6789",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Brazil . . . . . . . . . . . . +55-11-3701-6171",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". China . . . . . . . . . . . . +86-4008-21-8711",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Hong Kong . . . . . . . . . +852-2101-7981",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". India . . 1800-266-0193",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Mexico . . . . . . . . . +52-555-283-3870",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . . +65-6212-5050",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Sydney . . . . . . . . . . . . . +61-2-8205-4270",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Tokyo . . . . . . . . . . . . . . +81-3-4550-7220",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . . +41-44-335-7070",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "For operator assistance, if trouble connecting (non-CS users):",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". US / Canada / Mexico . . . . . . . . . . . +1-855-459-6655",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-808-234-1572",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Brazil . . . . . . . . . . . . . . +55-800-892-0527",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . +65-800-110-2053",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . +41-800-552-773",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Don't see your location? Click on the link below.",
+      "Region": "IBCM Conferencing Profile-Skype",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Global Internal Access(Avaya): . . . . *700-7070",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Global Internal Access(CS Voice): . . . 700-7070",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "External Access:",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Hong Kong . . . . . . . . . +852-2101-7981",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". London . . . . . . . . . . . . +44-207-883-6789",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". New York . . . . . . . . . . . +1-212-538-6789",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Pune . . . . . . . . . . . . . . . +91-20-6001-3743",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Sao Paulo . . . . . . . . . . . . +55 11 3701 6171",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Singapore . . . . . . . . . . +65-6212-5050",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Sydney . . . . . . . . . . . . . +61-2-8205-4270",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Tokyo . . . . . . . . . . . . . . +81-3-4550-7220",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Wroclaw . . . . . . . . . . . . +48-71-746-6333",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Zurich . . . . . . . . . . . . . . +41-44-335-7070",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". Americas (Toll Free) . . +1-800-318-8220",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": ". India (Local Toll Free) . . 1800-266-0193",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    },
+    {
+      "Number": "Don't see your location? Click on the link below.",
+      "Region": "Universal Conferencing Profile-03",
+      "IsTollFree": false,
+      "Culture": "English (United States)",
+      "IsDefault": false,
+      "IsSelected": false
+    }
+  ],
+  "OneMeeting": {
+    "IsEnabled": true,
+    "Protocols": [],
+    "WebRtc": "https://web.videosrv.net/webapp/#/?conference=PG9SR2JP.kurt.bradbury__credit-suisse.com@videosrv.net",
+    "MeetingId": "60570617"
+  }
+}
