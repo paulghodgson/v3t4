@@ -53,8 +53,18 @@
     <None Include="App.config" />
     <None Include="SFBS_Datasource.json" />
     <None Include="packages.config" />
+    <None Include="teams_Datasource.json" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="TeamsTemplate.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>TeamsTemplate.txt</LastGenOutput>
+    </Content>
+    <Content Include="TeamsTemplate.txt">
+      <DependentUpon>TeamsTemplate.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Content>
     <Content Include="SfbsTemplate.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>SfbsTemplate.txt</LastGenOutput>
