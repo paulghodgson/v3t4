@@ -1,0 +1,785 @@
+﻿{
+  "IsEnabled": true,
+  "ConferenceId": "49453289",
+  "JoinMeetingUrl": "https://teams.microsoft.com/l/meetup-join/19:meeting_MTM4YjMwYmYtZTMyMS00NDlmLWFiYmYtZjhlMGEzZmUzZmRj@thread.v2/0?context={\"Tid\":\"92821061-33c6-4b3f-a78c-c07ede52aa58\",\"Oid\":\"c3f6294c-643f-4abb-916f-ca89ab8b4213\"}#C2F91B2A-692E-4790-8F7A-7A4FDDC86C8A",
+  "LocalNumbersUrl": "https://dialin.teams.microsoft.com/4bfd74fe-90d4-4aa4-ae5a-4658f0a0ebb4?id=49453289",
+  "MeetingOptionsUrl": "https://teams.microsoft.com/meetingOptions/?organizerId=c3f6294c-643f-4abb-916f-ca89ab8b4213&tenantId=92821061-33c6-4b3f-a78c-c07ede52aa58&threadId=19_meeting_MTM4YjMwYmYtZTMyMS00NDlmLWFiYmYtZjhlMGEzZmUzZmRj@thread.v2&messageId=0&language=en-US",
+  "DialInNumbers": [
+    {
+      "FormattedNumber": "+54 11 5256-4123",
+      "Number": "+541152564123",
+      "City": "Buenos Aires",
+      "Country": "Argentina",
+      "IsoCode": "AR",
+      "IsTollFree": false,
+      "DisplayName": "Argentina, Buenos Aires",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "1800 826 541",
+      "Number": "1800826541",
+      "City": "Toll-Free",
+      "Country": "Australia",
+      "IsoCode": "AU",
+      "IsTollFree": true,
+      "DisplayName": "Australia, Toll-Free",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+61 3 8592 8404",
+      "Number": "+61385928404",
+      "City": "Melbourne",
+      "Country": "Australia",
+      "IsoCode": "AU",
+      "IsTollFree": false,
+      "DisplayName": "Australia, Melbourne",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+61 3 9067 5971",
+      "Number": "+61390675971",
+      "City": "Melbourne",
+      "Country": "Australia",
+      "IsoCode": "AU",
+      "IsTollFree": false,
+      "DisplayName": "Australia, Melbourne",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+61 2 8318 0011",
+      "Number": "+61283180011",
+      "City": "Sydney",
+      "Country": "Australia",
+      "IsoCode": "AU",
+      "IsTollFree": false,
+      "DisplayName": "Australia, Sydney",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+43 1 205636620",
+      "Number": "+431205636620",
+      "City": "Vienna",
+      "Country": "Austria",
+      "IsoCode": "AT",
+      "IsTollFree": false,
+      "DisplayName": "Austria, Vienna",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+973 1619 7319",
+      "Number": "+97316197319",
+      "City": "Manama",
+      "Country": "Bahrain",
+      "IsoCode": "BH",
+      "IsTollFree": false,
+      "DisplayName": "Bahrain, Manama",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+32 2 890 97 41",
+      "Number": "+3228909741",
+      "City": "Bruxelles/Brussels",
+      "Country": "Belgium",
+      "IsoCode": "BE",
+      "IsTollFree": false,
+      "DisplayName": "Belgium, Bruxelles/Brussels",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+55 11 3181-5311",
+      "Number": "+551131815311",
+      "City": "São Paulo",
+      "Country": "Brazil",
+      "IsoCode": "BR",
+      "IsTollFree": false,
+      "DisplayName": "Brazil, São Paulo",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+359 2 491 5328",
+      "Number": "+35924915328",
+      "City": "Sofia",
+      "Country": "Bulgaria",
+      "IsoCode": "BG",
+      "IsTollFree": false,
+      "DisplayName": "Bulgaria, Sofia",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 647-749-7006",
+      "Number": "+16477497006",
+      "City": "Toronto",
+      "Country": "Canada",
+      "IsoCode": "CA",
+      "IsTollFree": false,
+      "DisplayName": "Canada, Toronto",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+86 400 842 8206",
+      "Number": "+864008428206",
+      "City": "All locations",
+      "Country": "China",
+      "IsoCode": "CN",
+      "IsTollFree": false,
+      "DisplayName": "China, All locations",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+57 1 3299634",
+      "Number": "+5713299634",
+      "City": "Bogotá",
+      "Country": "Colombia",
+      "IsoCode": "CO",
+      "IsTollFree": false,
+      "DisplayName": "Colombia, Bogotá",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+506 4001 7469",
+      "Number": "+50640017469",
+      "City": "All locations",
+      "Country": "Costa Rica",
+      "IsoCode": "CR",
+      "IsTollFree": false,
+      "DisplayName": "Costa Rica, All locations",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+385 1 3445 013",
+      "Number": "+38513445013",
+      "City": "Zagreb",
+      "Country": "Croatia",
+      "IsoCode": "HR",
+      "IsTollFree": false,
+      "DisplayName": "Croatia, Zagreb",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+357 22 000626",
+      "Number": "+35722000626",
+      "City": "Nicosia",
+      "Country": "Cyprus",
+      "IsoCode": "CY",
+      "IsTollFree": false,
+      "DisplayName": "Cyprus, Nicosia",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+420 296 214 050",
+      "Number": "+420296214050",
+      "City": "Prague",
+      "Country": "Czech Republic",
+      "IsoCode": "CZ",
+      "IsTollFree": false,
+      "DisplayName": "Czech Republic, Prague",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+45 32 72 05 74",
+      "Number": "+4532720574",
+      "City": "København",
+      "Country": "Denmark",
+      "IsoCode": "DK",
+      "IsTollFree": false,
+      "DisplayName": "Denmark, København",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 849-945-2797",
+      "Number": "+18499452797",
+      "City": "Santiago",
+      "Country": "Dominican Republic",
+      "IsoCode": "DO",
+      "IsTollFree": false,
+      "DisplayName": "Dominican Republic, Santiago",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+503 2136 7650",
+      "Number": "+50321367650",
+      "City": "San Salvador",
+      "Country": "El Salvador",
+      "IsoCode": "SV",
+      "IsTollFree": false,
+      "DisplayName": "El Salvador, San Salvador",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+372 674 3095",
+      "Number": "+3726743095",
+      "City": "Tallinn",
+      "Country": "Estonia",
+      "IsoCode": "EE",
+      "IsTollFree": false,
+      "DisplayName": "Estonia, Tallinn",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+358 9 85626306",
+      "Number": "+358985626306",
+      "City": "Helsinki",
+      "Country": "Finland",
+      "IsoCode": "FI",
+      "IsTollFree": false,
+      "DisplayName": "Finland, Helsinki",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+33 1 70 99 53 85",
+      "Number": "+33170995385",
+      "City": "Paris",
+      "Country": "France",
+      "IsoCode": "FR",
+      "IsTollFree": false,
+      "DisplayName": "France, Paris",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+995 706 777 382",
+      "Number": "+995706777382",
+      "City": "Tbilisi",
+      "Country": "Georgia",
+      "IsoCode": "GE",
+      "IsTollFree": false,
+      "DisplayName": "Georgia, Tbilisi",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+49 69 667781682",
+      "Number": "+4969667781682",
+      "City": "Frankfurt am Main",
+      "Country": "Germany",
+      "IsoCode": "DE",
+      "IsTollFree": false,
+      "DisplayName": "Germany, Frankfurt am Main",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+30 21 1198 6292",
+      "Number": "+302111986292",
+      "City": "Athens",
+      "Country": "Greece",
+      "IsoCode": "GR",
+      "IsTollFree": false,
+      "DisplayName": "Greece, Athens",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+852 5806 0581",
+      "Number": "+85258060581",
+      "City": "Hong Kong",
+      "Country": "Hong Kong SAR",
+      "IsoCode": "HK",
+      "IsTollFree": false,
+      "DisplayName": "Hong Kong SAR, Hong Kong",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+36 1 999 3955",
+      "Number": "+3619993955",
+      "City": "Budapest",
+      "Country": "Hungary",
+      "IsoCode": "HU",
+      "IsTollFree": false,
+      "DisplayName": "Hungary, Budapest",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+91 22 6001 1909",
+      "Number": "+912260011909",
+      "City": "Mumbai",
+      "Country": "India",
+      "IsoCode": "IN",
+      "IsTollFree": false,
+      "DisplayName": "India, Mumbai",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+353 1 566 1004",
+      "Number": "+35315661004",
+      "City": "Dublin",
+      "Country": "Ireland",
+      "IsoCode": "IE",
+      "IsTollFree": false,
+      "DisplayName": "Ireland, Dublin",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+972 3-376-1396",
+      "Number": "+97233761396",
+      "City": "Tel Aviv",
+      "Country": "Israel",
+      "IsoCode": "IL",
+      "IsTollFree": false,
+      "DisplayName": "Israel, Tel Aviv",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+39 02 0062 4019",
+      "Number": "+390200624019",
+      "City": "Milano",
+      "Country": "Italy",
+      "IsoCode": "IT",
+      "IsTollFree": false,
+      "DisplayName": "Italy, Milano",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+81 3-4510-7208",
+      "Number": "+81345107208",
+      "City": "æ±äº¬ (Tokyo)",
+      "Country": "Japan",
+      "IsoCode": "JP",
+      "IsTollFree": false,
+      "DisplayName": "Japan, æ±äº¬ (Tokyo)",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+82 70-7488-3939",
+      "Number": "+827074883939",
+      "City": "Seoul",
+      "Country": "Korea",
+      "IsoCode": "KR",
+      "IsTollFree": false,
+      "DisplayName": "Korea, Seoul",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+371 64 331 019",
+      "Number": "+37164331019",
+      "City": "Aluksne",
+      "Country": "Latvia",
+      "IsoCode": "LV",
+      "IsTollFree": false,
+      "DisplayName": "Latvia, Aluksne",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+370 5 200 0816",
+      "Number": "+37052000816",
+      "City": "Vilnius",
+      "Country": "Lithuania",
+      "IsoCode": "LT",
+      "IsTollFree": false,
+      "DisplayName": "Lithuania, Vilnius",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+352 27 87 00 01",
+      "Number": "+35227870001",
+      "City": "Luxembourg",
+      "Country": "Luxembourg",
+      "IsoCode": "LU",
+      "IsTollFree": false,
+      "DisplayName": "Luxembourg, Luxembourg",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+60 3-9212 5024",
+      "Number": "+60392125024",
+      "City": "Kuala Lumpur",
+      "Country": "Malaysia",
+      "IsoCode": "MY",
+      "IsTollFree": false,
+      "DisplayName": "Malaysia, Kuala Lumpur",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+356 2776 1469",
+      "Number": "+35627761469",
+      "City": "Valletta",
+      "Country": "Malta",
+      "IsoCode": "MT",
+      "IsTollFree": false,
+      "DisplayName": "Malta, Valletta",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+52 55 4164 2226",
+      "Number": "+525541642226",
+      "City": "Mexico City",
+      "Country": "Mexico",
+      "IsoCode": "MX",
+      "IsTollFree": false,
+      "DisplayName": "Mexico, Mexico City",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+31 20 258 8520",
+      "Number": "+31202588520",
+      "City": "Amsterdam",
+      "Country": "Netherlands",
+      "IsoCode": "NL",
+      "IsTollFree": false,
+      "DisplayName": "Netherlands, Amsterdam",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+64 4-280 8096",
+      "Number": "+6442808096",
+      "City": "Wellington",
+      "Country": "New Zealand",
+      "IsoCode": "NZ",
+      "IsTollFree": false,
+      "DisplayName": "New Zealand, Wellington",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+47 21 40 20 47",
+      "Number": "+4721402047",
+      "City": "Oslo",
+      "Country": "Norway",
+      "IsoCode": "NO",
+      "IsTollFree": false,
+      "DisplayName": "Norway, Oslo",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+92 21 38787016",
+      "Number": "+922138787016",
+      "City": "Karachi",
+      "Country": "Pakistan",
+      "IsoCode": "PK",
+      "IsTollFree": false,
+      "DisplayName": "Pakistan, Karachi",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+507 832-6742",
+      "Number": "+5078326742",
+      "City": "Panama City",
+      "Country": "Panama",
+      "IsoCode": "PA",
+      "IsTollFree": false,
+      "DisplayName": "Panama, Panama City",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+51 1 7089762",
+      "Number": "+5117089762",
+      "City": "Lima",
+      "Country": "Peru",
+      "IsoCode": "PE",
+      "IsTollFree": false,
+      "DisplayName": "Peru, Lima",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+63 2 231 3160",
+      "Number": "+6322313160",
+      "City": "Manila",
+      "Country": "Philippines",
+      "IsoCode": "PH",
+      "IsTollFree": false,
+      "DisplayName": "Philippines, Manila",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+48 22 295 38 47",
+      "Number": "+48222953847",
+      "City": "Warsaw",
+      "Country": "Poland",
+      "IsoCode": "PL",
+      "IsTollFree": false,
+      "DisplayName": "Poland, Warsaw",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+351 21 121 6518",
+      "Number": "+351211216518",
+      "City": "Lisbon",
+      "Country": "Portugal",
+      "IsoCode": "PT",
+      "IsTollFree": false,
+      "DisplayName": "Portugal, Lisbon",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 787-291-9300",
+      "Number": "+17872919300",
+      "City": "San Juan",
+      "Country": "Puerto Rico",
+      "IsoCode": "PR",
+      "IsTollFree": false,
+      "DisplayName": "Puerto Rico, San Juan",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+40 21 529 2016",
+      "Number": "+40215292016",
+      "City": "All locations",
+      "Country": "Romania",
+      "IsoCode": "RO",
+      "IsTollFree": false,
+      "DisplayName": "Romania, All locations",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+7 495 118-92-47",
+      "Number": "+74951189247",
+      "City": "Moscow",
+      "Country": "Russia",
+      "IsoCode": "RU",
+      "IsTollFree": false,
+      "DisplayName": "Russia, Moscow",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+65 3157 6083",
+      "Number": "+6531576083",
+      "City": "Singapore",
+      "Country": "Singapore",
+      "IsoCode": "SG",
+      "IsTollFree": false,
+      "DisplayName": "Singapore, Singapore",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+421 2/334 186 09",
+      "Number": "+421233418609",
+      "City": "Bratislava",
+      "Country": "Slovakia",
+      "IsoCode": "SK",
+      "IsTollFree": false,
+      "DisplayName": "Slovakia, Bratislava",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+386 1 828 05 77",
+      "Number": "+38618280577",
+      "City": "Ljubljana",
+      "Country": "Slovenia",
+      "IsoCode": "SI",
+      "IsTollFree": false,
+      "DisplayName": "Slovenia, Ljubljana",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+27 21 810 1000",
+      "Number": "+27218101000",
+      "City": "Cape Town",
+      "Country": "South Africa",
+      "IsoCode": "ZA",
+      "IsTollFree": false,
+      "DisplayName": "South Africa, Cape Town",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+34 910 38 80 60",
+      "Number": "+34910388060",
+      "City": "Madrid",
+      "Country": "Spain",
+      "IsoCode": "ES",
+      "IsTollFree": false,
+      "DisplayName": "Spain, Madrid",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+94 72 091 0116",
+      "Number": "+94720910116",
+      "City": "All locations",
+      "Country": "Sri Lanka",
+      "IsoCode": "LK",
+      "IsTollFree": false,
+      "DisplayName": "Sri Lanka, All locations",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+46 8 505 218 43",
+      "Number": "+46850521843",
+      "City": "Stockholm",
+      "Country": "Sweden",
+      "IsoCode": "SE",
+      "IsTollFree": false,
+      "DisplayName": "Sweden, Stockholm",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+41 43 210 57 31",
+      "Number": "+41432105731",
+      "City": "Zurich/Zürich/Zurigo (Zurich)",
+      "Country": "Switzerland",
+      "IsoCode": "CH",
+      "IsTollFree": false,
+      "DisplayName": "Switzerland, Zurich/Zürich/Zurigo (Zurich)",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+886 2 5592 4069",
+      "Number": "+886255924069",
+      "City": "Taipei",
+      "Country": "Taiwan",
+      "IsoCode": "TW",
+      "IsTollFree": false,
+      "DisplayName": "Taiwan, Taipei",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+66 2 104 0639",
+      "Number": "+6621040639",
+      "City": "Bangkok",
+      "Country": "Thailand",
+      "IsoCode": "TH",
+      "IsTollFree": false,
+      "DisplayName": "Thailand, Bangkok",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+90 216 900 15 97",
+      "Number": "+902169001597",
+      "City": "Istanbul",
+      "Country": "Turkey",
+      "IsoCode": "TR",
+      "IsTollFree": false,
+      "DisplayName": "Turkey, Istanbul",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+380 89 324 0004",
+      "Number": "+380893240004",
+      "City": "All locations",
+      "Country": "Ukraine",
+      "IsoCode": "UA",
+      "IsTollFree": false,
+      "DisplayName": "Ukraine, All locations",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "0808 167 4004",
+      "Number": "08081674004",
+      "City": "Toll-Free",
+      "Country": "United Kingdom",
+      "IsoCode": "GB",
+      "IsTollFree": true,
+      "DisplayName": "United Kingdom, Toll-Free",
+      "IsDefault": true
+    },
+    {
+      "FormattedNumber": "+44 20 3321 5268",
+      "Number": "+442033215268",
+      "City": "London",
+      "Country": "United Kingdom",
+      "IsoCode": "GB",
+      "IsTollFree": false,
+      "DisplayName": "United Kingdom, London",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+44 20 3443 9950",
+      "Number": "+442034439950",
+      "City": "London",
+      "Country": "United Kingdom",
+      "IsoCode": "GB",
+      "IsTollFree": false,
+      "DisplayName": "United Kingdom, London",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+44 20 3880 0559",
+      "Number": "+442038800559",
+      "City": "London",
+      "Country": "United Kingdom",
+      "IsoCode": "GB",
+      "IsTollFree": false,
+      "DisplayName": "United Kingdom, London",
+      "IsDefault": true
+    },
+    {
+      "FormattedNumber": "(844) 567-1165",
+      "Number": "8445671165",
+      "City": "Toll-Free",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": true,
+      "DisplayName": "United States, Toll-Free",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 312-809-2566",
+      "Number": "+13128092566",
+      "City": "Chicago",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": false,
+      "DisplayName": "United States, Chicago",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 773-917-7786",
+      "Number": "+17739177786",
+      "City": "Chicago",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": false,
+      "DisplayName": "United States, Chicago",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 469-480-4951",
+      "Number": "+14694804951",
+      "City": "Dallas",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": false,
+      "DisplayName": "United States, Dallas",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 469-480-6674",
+      "Number": "+14694806674",
+      "City": "Dallas",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": false,
+      "DisplayName": "United States, Dallas",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 213-437-3941",
+      "Number": "+12134373941",
+      "City": "Los Angeles",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": false,
+      "DisplayName": "United States, Los Angeles",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 213-458-8560",
+      "Number": "+12134588560",
+      "City": "Los Angeles",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": false,
+      "DisplayName": "United States, Los Angeles",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 347-973-6408",
+      "Number": "+13479736408",
+      "City": "New York City",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": false,
+      "DisplayName": "United States, New York City",
+      "IsDefault": false
+    },
+    {
+      "FormattedNumber": "+1 646-838-1534",
+      "Number": "+16468381534",
+      "City": "New York City",
+      "Country": "United States",
+      "IsoCode": "US",
+      "IsTollFree": false,
+      "DisplayName": "United States, New York City",
+      "IsDefault": false
+    }
+  ],
+  "Pexip": {
+    "IsEnabled": true,
+    "DialingInstructionsUrl": "https://teams-supertap-joininfo.pexip.com/?conf=112315270&direct=112315270&key=teams@videosrv.net",
+    "ConferenceId": "112315270",
+    "SipAddress": "teams@videosrv.net"
+  }
+}
